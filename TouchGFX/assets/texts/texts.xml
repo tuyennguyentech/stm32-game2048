@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.26.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_VKIJ" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">MENU</Translation>
+      </Text>
+      <Text Id="__SingleUse_PEEZ" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">NEW GAME</Translation>
+      </Text>
+      <Text Id="__SingleUse_CS12" Alignment="Left" TypographyId="Typography8">
+        <Translation Language="GB">5.</Translation>
+      </Text>
+      <Text Id="__SingleUse_X3IX" Alignment="Left" TypographyId="Typography8">
+        <Translation Language="GB">0&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_7YKH" Alignment="Right" TypographyId="Typography8">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_INGO" Alignment="Left" TypographyId="Typography8">
+        <Translation Language="GB">4.</Translation>
+      </Text>
+      <Text Id="__SingleUse_HQF1" Alignment="Left" TypographyId="Typography8">
+        <Translation Language="GB">0&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_7G2T" Alignment="Right" TypographyId="Typography8">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_1E4Q" Alignment="Left" TypographyId="Typography8">
+        <Translation Language="GB">3.</Translation>
+      </Text>
+      <Text Id="__SingleUse_I0UR" Alignment="Left" TypographyId="Typography8">
+        <Translation Language="GB">0&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0B0H" Alignment="Right" TypographyId="Typography8">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_EXXR" Alignment="Left" TypographyId="Typography8">
+        <Translation Language="GB">0&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_7449" Alignment="Right" TypographyId="Typography8">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_SZ47" Alignment="Left" TypographyId="Typography8">
+        <Translation Language="GB">2.</Translation>
+      </Text>
+      <Text Id="__SingleUse_M4UU" Alignment="Left" TypographyId="Typography8">
+        <Translation Language="GB">0&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_4R4M" Alignment="Right" TypographyId="Typography8">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8U2B" Alignment="Left" TypographyId="Typography8">
+        <Translation Language="GB">1.</Translation>
+      </Text>
+      <Text Id="__SingleUse_WHW8" Alignment="Center" TypographyId="Typography7">
+        <Translation Language="GB">HIGH SCORES</Translation>
+      </Text>
+      <Text Id="__SingleUse_K3PS" Alignment="Center" TypographyId="Typography5">
+        <Translation Language="GB">Rank</Translation>
+      </Text>
+      <Text Id="__SingleUse_DQT4" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">Try Again</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZLNT" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_MKDQ" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WGP9" Alignment="Center" TypographyId="Typography6">
+        <Translation Language="GB">SCORE</Translation>
+      </Text>
+      <Text Id="__SingleUse_TE90" Alignment="Center" TypographyId="Typography5">
+        <Translation Language="GB">GAME OVER</Translation>
+      </Text>
+      <Text Id="__SingleUse_51X3" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">NEW GAME</Translation>
+      </Text>
+      <Text Id="__SingleUse_9UM9" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">MENU</Translation>
+      </Text>
+      <Text Id="__SingleUse_OY8T" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_2FEV" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;d&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0QMS" Alignment="Left" TypographyId="Typography1">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_CJJ6" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_Y4L1" Alignment="Center" TypographyId="Typography1">
+        <Translation Language="GB">2048</Translation>
+      </Text>
+      <Text Id="__SingleUse_MCNW" Alignment="Center" TypographyId="Typography4">
+        <Translation Language="GB">SCORE</Translation>
+      </Text>
+      <Text Id="__SingleUse_D9FM" Alignment="Center" TypographyId="Typography5">
+        <Translation Language="GB">Start</Translation>
+      </Text>
+      <Text Id="__SingleUse_O4JI" Alignment="Center" TypographyId="Typography3">
+        <Translation Language="GB">2048</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="60" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Large" Font="JetBrainsMonoNerdFont-Bold.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography1" Font="JetBrainsMonoNerdFont-Bold.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Typography2" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography3" Font="JetBrainsMonoNerdFont-Bold.ttf" Size="60" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography4" Font="JetBrainsMonoNerdFont-Bold.ttf" Size="12" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography5" Font="JetBrainsMonoNerdFont-Bold.ttf" Size="30" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Typography6" Font="JetBrainsMonoNerdFont-Bold.ttf" Size="15" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Typography7" Font="JetBrainsMonoNerdFont-Bold.ttf" Size="25" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Typography8" Font="JetBrainsMonoNerdFont-Bold.ttf" Size="22" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+  </Typographies>
+</TextDatabase>
